@@ -171,3 +171,11 @@
 
     error: Entry <fileName> would be overwritten by merge. Cannot merge. (Changes in staging area)
 
+
+
+Самый простой способ разрешить конфликт — отредактировать конфликтующий файл. Откройте файл merge.txt в привычном редакторе. В нашем примере просто удалим все разделители конфликта. Измененное содержимое файла merge.txt будет выглядеть следующим образом:
+
+    this is some content to mess with
+    content to append
+    totally different content to merge later
+
