@@ -116,3 +116,13 @@
 Для переключения между ветками необходимо ввести команду:
 
     git checkout <NameBranch>
+
+### 
+git branch -d <NameBranch>
+
+git log --graph
+git log --oneline -- all --graph
+
+git merge <NameBranch>
+
+Конфликт слияния и его решение
