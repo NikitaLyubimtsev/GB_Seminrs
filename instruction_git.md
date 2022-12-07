@@ -124,7 +124,14 @@
     git branch -d <NameBranch>
 
 git log --graph
-git log --oneline -- all --graph
+
+### Графическое отображение дерева
+
+Для графического отображения дерева изменений репозитория по всем веткам необходимо ввести команду:
+
+    git log --oneline -- all --graph
+
+> За графическое отображение отвечает флаг `--graph`
 
 git merge <NameBranch>
 
