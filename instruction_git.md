@@ -171,3 +171,4 @@
 
     error: Entry <fileName> would be overwritten by merge. Cannot merge. (Changes in staging area)
 
+### Разрешение конфликтов слияния с помощью командной строки
