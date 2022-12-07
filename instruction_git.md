@@ -123,8 +123,13 @@
 
     git branch -d <NameBranch>
 
-git log --graph
-git log --oneline -- all --graph
+### Графическое отображение дерева
+
+Для графического отображения дерева необходимо ввести команду:
+
+    git log --graph
+
+    git log --oneline -- all --graph
 
 git merge <NameBranch>
 
