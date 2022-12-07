@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
-![logoGit](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/300px-Git-logo.svg.png)
+![logoGit](logo.png)
 
 ## Git это программа для контроля версий.
 
@@ -102,3 +102,11 @@
 Для отображения всех веток используется команда:
 
     git branch
+
+### Создание новой ветки
+
+Что бы создать новую ветку необходимо ввести команду
+
+    git branch <NameBranch>
+
+###
