@@ -117,8 +117,11 @@
 
     git checkout <NameBranch>
 
-### 
-git branch -d <NameBranch>
+### Удаление ветки
+
+Для удаления ветки необходимо ввести команду:
+
+    git branch -d <NameBranch>
 
 git log --graph
 git log --oneline -- all --graph
